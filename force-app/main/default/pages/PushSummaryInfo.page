@@ -1,0 +1,3 @@
+<apex:page controller="PushSummaryInfo" action="{!PushNow}">
+    <apex:pagemessages id="Messages" />
+</apex:page>
